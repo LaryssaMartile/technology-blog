@@ -1,2 +1,2 @@
 # technology-blog
-Este repositório é dedicado a um projeto de um blog de tecnologia.
+Este repositório é dedicado ao projeto de um blog de tecnologia.
